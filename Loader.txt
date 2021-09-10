@@ -1,6 +1,6 @@
 local Hub = {
 	[6284583030] = {
-		[1] = "https://raw.githubusercontent.com/Dor-X-Hub/Script/main/Pet-Simulator-X", --[[Pet Sim X]]--
+		[1] = "https://raw.githubusercontent.com/Beaast-exe/Roblox-Scripts/master/Pet-Simulator-X.txt", --[[Pet Sim X]]--
 	},
 }
 
